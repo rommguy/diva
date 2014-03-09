@@ -2,6 +2,7 @@
 ---
 **API for a 3 year old puppy**
 
+![Diva. Image by Albert Elrom](https://raw.github.com/tomerlichtash/diva/master/img/IMG-20140306-WA0001.jpg)
 
 ## Food
 * Diva eats *1 bowl of food per day*.
